@@ -16,3 +16,11 @@
  __Tech Stack__ : Android, AWS, Firebase, DSA          
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/tarun-yadav-384320175/) | [Github](https://github.com/tarun26091999) | [Twitter](https://twitter.com/yadavtarun_10) | [Instagram](https://www.instagram.com/tarunyadav_10/)     
  __Portfolio__ : [Resume](https://drive.google.com/file/d/1_9zCEDPTMuMGB5oSFRrIU8lcQ7xWGP3D/view?usp=sharing)
+
+
+
+- __Name__ : Rudrakshi        
+ __About__ : Hello everyone!! I am Rudrakshi, Programmer at CodeChef JSSATEN Chapter. I am a competitve programmer and an Open Source enthusiast. I am also a Web developer and   love to work with people who are passiontate about building solutions.
+ __Tech Stack__ : DSA, HTML, CSS , Javascript, Python          
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/rudrakshi-soni-403031195/) | [Github](https://github.com/rudrakshi99) | [Twitter](https://twitter.com/Rudrakshi09) | [Medium](https://medium.com/@sonirudrakshi99)     
+ __Portfolio__ : [Portfolio](https://rudrakshi99.github.io/Portfolio/)
