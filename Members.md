@@ -18,7 +18,12 @@
  __Portfolio__ : [Resume](https://drive.google.com/file/d/1_9zCEDPTMuMGB5oSFRrIU8lcQ7xWGP3D/view?usp=sharing)
 
 
-
+- __Name__ : Diya Jaiswal    
+ __About__ : Hello everyone! I'm Diya Jaiswal, Events Lead at Codechef JSSATEN Chapter and Core Team Member of Developer Student Clubs JSSATEN. I'm a Backend Developer and a Competitive Programmer.  
+ __Tech Stack__ : HTML/CSS, Bootstrap, Bulma CSS, Javascript, Django, Django REST Framework       
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/diyajaiswal11/) | [Github](https://github.com/diyajaiswal11) | [Twitter](https://twitter.com/diyajaiswal_11)
+ 
+ 
 - __Name__ : Rudrakshi        
  __About__ : Hello everyone!! I am Rudrakshi, Programmer at CodeChef JSSATEN Chapter. I am a competitve programmer and an Open Source enthusiast. I am also a Web developer and   love to work with people who are passiontate about building solutions.
  __Tech Stack__ : DSA, HTML, CSS , Javascript, Python          
