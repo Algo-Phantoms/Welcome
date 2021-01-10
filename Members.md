@@ -13,6 +13,6 @@
  
  - __Name__ : Tarun Yadav          
  __About__ : Hello all!! I am Tarun Yadav, President at CodeChef JSSATEN Chapter. I am into competitve programming for over 2 years and also DSA enthusiast. I am also a Android developer and currently interning with GeeksForGeeks.     
- __Tech Stack__ : Android, AWS, Firebase, DSA     
- __Social Links__ : [Linkedin](https://www.linkedin.com/in/tarun-yadav-384320175/) | [Github](https://github.com/tarun26091999) | [Twitter](https://twitter.com/yadavtarun_10) | [Instagram](https://www.instagram.com/tarunyadav_10/)
+ __Tech Stack__ : Android, AWS, Firebase, DSA          
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/tarun-yadav-384320175/) | [Github](https://github.com/tarun26091999) | [Twitter](https://twitter.com/yadavtarun_10) | [Instagram](https://www.instagram.com/tarunyadav_10/)     
  __Portfolio__ : [Resume](https://drive.google.com/file/d/1_9zCEDPTMuMGB5oSFRrIU8lcQ7xWGP3D/view?usp=sharing)
