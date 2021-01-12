@@ -36,3 +36,9 @@
  __Tech Stack__ : Android, Firebase.  
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/dheerajkotwani/) | [Github](https://github.com/dheerajkotwani) | [Twitter](https://twitter.com/kotwani_dheeraj)      
  __Portfolio__ : [Portfolio](https://dheerajkotwani.github.io/)
+ 
+ 
+  - __Name__ : Nakul Sharma        
+ __About__ : Hello everyone!! I am Nakul, Programmer at CodeChef JSSATEN Chapter and Core Team Member of Developer Student Clubs JSSATEN. Also, I am an Android Developer and a Competitve Programmer, totally obsessed with the idea of continuously improving myself!!  
+ __Tech Stack__ : Android, Firebase
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/nakul-19/) | [Github](https://github.com/nakul-19) | [Twitter](https://twitter.com/_Nakul19) 
