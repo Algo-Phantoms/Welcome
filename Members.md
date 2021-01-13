@@ -24,6 +24,12 @@
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/diyajaiswal11/) | [Github](https://github.com/diyajaiswal11) | [Twitter](https://twitter.com/diyajaiswal_11)
  
  
+ - __Name__ : Manshi Todi  
+ __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I'm also Backend Developer and Competitive Programmer.  
+ __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript                                               
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/manshi-todi-a017a2178/) | [Github](https://github.com/todi-2000) | [Twitter](https://twitter.com/manshitodi)
+ 
+ 
 - __Name__ : Rudrakshi        
  __About__ : Hello everyone!! I am Rudrakshi, Programmer at CodeChef JSSATEN Chapter. I am a competitve programmer and an Open Source enthusiast. I am also a Web developer and   love to work with people who are passiontate about building solutions.
  __Tech Stack__ : DSA, HTML, CSS , Javascript, Python          
