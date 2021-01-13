@@ -25,7 +25,7 @@
  
  
  - __Name__ : Manshi Todi  
- __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I'm also Backend Developer and Competitive Programmer.  
+ __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I am also a Backend Developer and Competitive Programmer.  
  __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript                                               
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/manshi-todi-a017a2178/) | [Github](https://github.com/todi-2000) | [Twitter](https://twitter.com/manshitodi)
  
