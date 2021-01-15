@@ -53,4 +53,9 @@
 - __Name__ : Ayush Tiwari       
  __About__ : Hello everyone!! I am Ayush Tiwari, Problem Setter at CodeChef JSSATEN Chapter and Core Team Member of Developer Student Clubs JSSATEN. I have been doing competitive for a quiet some time now and I am also a Backend Developer.  
  __Tech Stack__ : : Nodejs, MongoDB.    
- __Social Links__ : [Linkedin](https://www.linkedin.com/in/ayushtiwari57/) | [Github](https://github.com/servermonk) | [Twitter](https://twitter.com/ayyush_tiwari57)      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/ayushtiwari57/) | [Github](https://github.com/servermonk) | [Twitter](https://twitter.com/ayyush_tiwari57)    
+ 
+ - __Name__ : Anubhav Singhal      
+ __About__ : I have great deal of experience in programmig with C++, and am a passionate Golang backend developer. I am Executive at CodeChef JSSATEN Chapter, President at Entrepreneurship Development Cell JSS,  and Beta-Microsoft Learn Student Ambassador.       
+ __Tech Stack__ : : C++, GO, JavaScript      
+ __Connect with me__ : [LinkedIn](https://www.linkedin.com/in/anubhavitis/) | [GitHub](https://github.com/anubhavitis) | [Twitter](https://twitter.com/anubhavitis) | [Dev.To](https://dev.to/anubhavitis) | [CodeForces](https://codeforces.com/profile/zeddie) | [CodeChef](https://www.codechef.com/users/zeddie) | [LeetCode](https://leetcode.com/zeddie/)  
