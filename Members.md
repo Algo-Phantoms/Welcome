@@ -47,4 +47,10 @@
   - __Name__ : Nakul Sharma        
  __About__ : Hello everyone!! I am Nakul, Programmer at CodeChef JSSATEN Chapter and Core Team Member of Developer Student Clubs JSSATEN. Also, I am an Android Developer and a Competitve Programmer, totally obsessed with the idea of continuously improving myself!!  
  __Tech Stack__ : Android, Firebase.  
- __Social Links__ :  [Linkedin](https://www.linkedin.com/in/nakul-19/) | [Github](https://github.com/nakul-19) | [Twitter](https://twitter.com/_Nakul19) | [Instagram](https://www.instagram.com/_nakul__19_/)     
+ __Social Links__ :  [Linkedin](https://www.linkedin.com/in/nakul-19/) | [Github](https://github.com/nakul-19) | [Twitter](https://twitter.com/_Nakul19) | [Instagram](https://www.instagram.com/_nakul__19_/)  
+ 
+
+- __Name__ : Ayush Tiwari       
+ __About__ : Hello everyone!! I am Ayush Tiwari, Problem Setter at CodeChef JSSATEN Chapter and Core Team Member of Developer Student Clubs JSSATEN. I have been doing competitive for a quiet some time now and I am also a Backend Developer.  
+ __Tech Stack__ : : Nodejs, MongoDB.    
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/ayushtiwari57/) | [Github](https://github.com/servermonk) | [Twitter](https://twitter.com/ayyush_tiwari57)      
