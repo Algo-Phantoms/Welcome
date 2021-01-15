@@ -62,7 +62,7 @@
   
 
 - __Name__ :  Raghav Tripathi         
- __About__ :    Hello everyone!! I am Raghav, Programmer at CodeChef JSSATEN Chapter and a member of Android Development Society.I am a Competitive Programmer and an enthusiast of building things.
- __Tech Stack__ :  C++ , Java ,HTML/CSS
+ __About__ :    Hello everyone!! I am Raghav, Programmer at CodeChef JSSATEN Chapter and a member of Android Development Society.I am a Competitive Programmer and an enthusiast of building things.    
+ __Tech Stack__ :  C++ , Java ,HTML/CSS    
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/raghav-tripathi/) | [Github](https://github.com/01raghav) | [Instagram](https://www.instagram.com/raghavtripathi01/)  
  
