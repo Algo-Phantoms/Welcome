@@ -58,4 +58,11 @@
  - __Name__ : Anubhav Singhal      
  __About__ : I have great deal of experience in programmig with C++, and am a passionate Golang backend developer. I am Executive at CodeChef JSSATEN Chapter, President at Entrepreneurship Development Cell JSS,  and Beta-Microsoft Learn Student Ambassador.       
  __Tech Stack__ : : C++, GO, JavaScript      
- __Connect with me__ : [LinkedIn](https://www.linkedin.com/in/anubhavitis/) | [GitHub](https://github.com/anubhavitis) | [Twitter](https://twitter.com/anubhavitis) | [Dev.To](https://dev.to/anubhavitis) | [CodeForces](https://codeforces.com/profile/zeddie) | [CodeChef](https://www.codechef.com/users/zeddie) | [LeetCode](https://leetcode.com/zeddie/)  
+ __Connect with me__ : [LinkedIn](https://www.linkedin.com/in/anubhavitis/) | [GitHub](https://github.com/anubhavitis) | [Twitter](https://twitter.com/anubhavitis) | [Dev.To](https://dev.to/anubhavitis) | [CodeForces](https://codeforces.com/profile/zeddie) | [CodeChef](https://www.codechef.com/users/zeddie) | [LeetCode](https://leetcode.com/zeddie/)
+  
+
+- __Name__ :  Raghav Tripathi         
+ __About__ :    Hello everyone!! I am Raghav, Programmer at CodeChef JSSATEN Chapter and a member of Android Development Society.I am a Competitive Programmer and an enthusiast of building things.
+ __Tech Stack__ :  C++ , Java ,HTML/CSS
+ __Social Links__ : [LinkedIn](https://www.linkedin.com/in/raghav-tripathi/) | [Github](https://github.com/01raghav) | [Instagram](https://www.instagram.com/raghavtripathi01/)  
+ 
