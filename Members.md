@@ -65,4 +65,8 @@
  __About__ :    Hello everyone!! I am Raghav, Programmer at CodeChef JSSATEN Chapter and a member of Android Development Society.I am a Competitive Programmer and an enthusiast of building things.    
  __Tech Stack__ :  C++ , Java ,HTML/CSS    
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/raghav-tripathi/) | [Github](https://github.com/01raghav) | [Instagram](https://www.instagram.com/raghavtripathi01/)  
- 
+
+- __Name__ : Aditya Kumar Gupta   
+ __About__ : A pre-final year Computer Science undergrad. Being a Computer Science student everything about computers excites me. My passion is centered in Machine Learning. I  build models from scratch and have great passion for innovating things through automation. I have interests in Image Processing, Computer Vision, and NLP. <br>
+ __Tech Stack__ : Python, C, C++, PyTorch, Tensorflow, Keras.      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/geekquad/) | [Github](https://github.com/geekquad) | [Twitter](https://twitter.com/geekquad_)
