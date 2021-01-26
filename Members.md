@@ -26,7 +26,7 @@
  
  - __Name__ : Manshi Todi  
  __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I am also a Backend Developer and Competitive Programmer.  
- __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript                                               
+ __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/manshi-todi-a017a2178/) | [Github](https://github.com/todi-2000) | [Twitter](https://twitter.com/manshitodi)
  
  
@@ -70,3 +70,8 @@
  __About__ : A pre-final year Computer Science undergrad. Being a Computer Science student everything about computers excites me. My passion is centered in Machine Learning. I  build models from scratch and have great passion for innovating things through automation. I have interests in Image Processing, Computer Vision, and NLP. <br>
  __Tech Stack__ : Python, C, C++, PyTorch, Tensorflow, Keras.      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/geekquad/) | [Github](https://github.com/geekquad) | [Twitter](https://twitter.com/geekquad_)
+ 
+- __Name__ : Ojuswi Rastogi   
+ __About__ : I am a Competitive Programmer and a Web Developer. I am a Complete Passionate and Workaholic Geek, who keeps exploring and learning new technologies in Computer Science.   
+ __Tech Stack__ : C/C++, Python, HTML, CSS, Bootstrap, Javascript, Django, Django REST Framework, OpenCV, Android, DSA   
+ __Social Links__ : [LinkedIn](https://www.linkedin.com/in/ojuswizard/) | [GitHub](https://github.com/OjusWiZard) | [CodeChef](https://www.codechef.com/users/tanyx01) | [Instagram](https://www.instagram.com/me.not.go.out/)   
