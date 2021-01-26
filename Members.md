@@ -26,7 +26,7 @@
  
  - __Name__ : Manshi Todi  
  __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I am also a Backend Developer and Competitive Programmer.  
- __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript
+ __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript 
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/manshi-todi-a017a2178/) | [Github](https://github.com/todi-2000) | [Twitter](https://twitter.com/manshitodi)
  
  
@@ -74,4 +74,9 @@
 - __Name__ : Ojuswi Rastogi   
  __About__ : I am a Competitive Programmer and a Web Developer. I am a Complete Passionate and Workaholic Geek, who keeps exploring and learning new technologies in Computer Science.   
  __Tech Stack__ : C/C++, Python, HTML, CSS, Bootstrap, Javascript, Django, Django REST Framework, OpenCV, Android, DSA   
- __Social Links__ : [LinkedIn](https://www.linkedin.com/in/ojuswizard/) | [GitHub](https://github.com/OjusWiZard) | [CodeChef](https://www.codechef.com/users/tanyx01) | [Instagram](https://www.instagram.com/me.not.go.out/)   
+ __Social Links__ : [LinkedIn](https://www.linkedin.com/in/ojuswizard/) | [GitHub](https://github.com/OjusWiZard) | [CodeChef](https://www.codechef.com/users/tanyx01) | [Instagram](https://www.instagram.com/me.not.go.out/) 
+
+ - __Name__ :  Shreyans Poddar            
+ __About__ : Hello everyone!! I am Shreyans. I'm an Competitive Programmer and an Android Developer,and a person who is tech enthusiastic and like building things.        
+ __Tech Stack__ :  Java, HTML/CSS, Javascript, Android, FireBase        
+ __Social Links__ : [LinkedIn](https://www.linkedin.com/in/shreyans-poddar-4015a9130/) | [Github](https://github.com/shreyanspoddar) | [Instagram](https://www.instagram.com/shreyanspoddar/) | [Twitter](https://twitter.com/shreyans_poddar)   
