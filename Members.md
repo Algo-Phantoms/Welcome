@@ -26,7 +26,7 @@
  
  - __Name__ : Manshi Todi  
  __About__ : Hello everyone!! I'm Manshi Todi, Outreach and Media Lead at Codechef JSSATEN Chapter and Core Team Member of MMIL. I am also a Backend Developer and Competitive Programmer.  
- __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript
+ __Tech Stack__ : Django, Django REST Framework, HTML, CSS, Bootstrap, Bulma CSS, Javascript        
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/manshi-todi-a017a2178/) | [Github](https://github.com/todi-2000) | [Twitter](https://twitter.com/manshitodi)
  
  
@@ -66,17 +66,26 @@
  __Tech Stack__ :  C++ , Java ,HTML/CSS    
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/raghav-tripathi/) | [Github](https://github.com/01raghav) | [Instagram](https://www.instagram.com/raghavtripathi01/)  
 
+
 - __Name__ : Aditya Kumar Gupta   
  __About__ : A pre-final year Computer Science undergrad. Being a Computer Science student everything about computers excites me. My passion is centered in Machine Learning. I  build models from scratch and have great passion for innovating things through automation. I have interests in Image Processing, Computer Vision, and NLP. <br>
  __Tech Stack__ : Python, C, C++, PyTorch, Tensorflow, Keras.      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/geekquad/) | [Github](https://github.com/geekquad) | [Twitter](https://twitter.com/geekquad_)
+ 
  
 - __Name__ : Ojuswi Rastogi   
  __About__ : I am a Competitive Programmer and a Web Developer. I am a Complete Passionate and Workaholic Geek, who keeps exploring and learning new technologies in Computer Science.   
  __Tech Stack__ : C/C++, Python, HTML, CSS, Bootstrap, Javascript, Django, Django REST Framework, OpenCV, Android, DSA   
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/ojuswizard/) | [GitHub](https://github.com/OjusWiZard) | [CodeChef](https://www.codechef.com/users/tanyx01) | [Instagram](https://www.instagram.com/me.not.go.out/)   
 
+
 - __Name__ : Kritika Parmar   
  __About__ : I'm a Sophomore and a Machine Learning enthusiast.  I love to learn and explore new things. And I'm an Open Source contributor. I love to connect and collaborate with people on different projects. Apart from being a coder, I love to sing and play guitar.<br>
  __Tech Stack__ : Python, C/C++, Tensorflow, Keras, Django, HTML, CSS, Bootstrap, OpenCV, DSA.      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/kritika-parmar-10244a193/) | [Github](https://github.com/kritikaparmar-programmer) | [Twitter](https://twitter.com/KritikaParmar5)
+
+
+- __Name__ :  Shreyans Poddar            
+ __About__ : Hello everyone!! I am Shreyans. I'm an Competitive Programmer and an Android Developer,and a person who is tech enthusiastic and like building things.        
+ __Tech Stack__ :  Java, HTML/CSS, Javascript, Android, FireBase        
+ __Social Links__ : [LinkedIn](https://www.linkedin.com/in/shreyans-poddar-4015a9130/) | [Github](https://github.com/shreyanspoddar) | [Instagram](https://www.instagram.com/shreyanspoddar/) | [Twitter](https://twitter.com/shreyans_poddar)   
