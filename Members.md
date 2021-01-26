@@ -75,3 +75,8 @@
  __About__ : I am a Competitive Programmer and a Web Developer. I am a Complete Passionate and Workaholic Geek, who keeps exploring and learning new technologies in Computer Science.   
  __Tech Stack__ : C/C++, Python, HTML, CSS, Bootstrap, Javascript, Django, Django REST Framework, OpenCV, Android, DSA   
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/ojuswizard/) | [GitHub](https://github.com/OjusWiZard) | [CodeChef](https://www.codechef.com/users/tanyx01) | [Instagram](https://www.instagram.com/me.not.go.out/)   
+
+- __Name__ : Kritika Parmar   
+ __About__ : I'm a Sophomore and a Machine Learning enthusiast.  I love to learn and explore new things. And I'm an Open Source contributor. I love to connect and collaborate with people on different projects. Apart from being a coder, I love to sing and play guitar.<br>
+ __Tech Stack__ : Python, C/C++, Tensorflow, Keras, Django, HTML, CSS, Bootstrap, OpenCV, DSA.      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/kritika-parmar-10244a193/) | [Github](https://github.com/kritikaparmar-programmer) | [Twitter](https://twitter.com/KritikaParmar5)
