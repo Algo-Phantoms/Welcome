@@ -89,3 +89,10 @@
  __About__ : Hello everyone!! I am Shreyans. I'm an Competitive Programmer and an Android Developer,and a person who is tech enthusiastic and like building things.        
  __Tech Stack__ :  Java, HTML/CSS, Javascript, Android, FireBase        
  __Social Links__ : [LinkedIn](https://www.linkedin.com/in/shreyans-poddar-4015a9130/) | [Github](https://github.com/shreyanspoddar) | [Instagram](https://www.instagram.com/shreyanspoddar/) | [Twitter](https://twitter.com/shreyans_poddar)   
+ 
+ 
+- __Name__ : Shruti Agarwal              
+ __About__ : A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.       
+ __Tech Stack__ : C, C++, Html, CSS, Javascript, Bootstrap, Materialize, Reactjs, Firebase      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/shruti-agarwal-650a17196) | [Twitter](https://twitter.com/ShrutiA11593016) | [Github](https://github.com/Shruti3004)          
+
