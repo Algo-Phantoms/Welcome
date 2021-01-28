@@ -104,6 +104,6 @@
  
  
 - __Name__ : Prajul Gupta             
- __About__ : Hello Everyone!! I am Prajul a pre-final year Computer Science undergrad from VIT University Chennai Campus. I am passionate for  Competitive Coding and a Web Developer. I think my greatest strength is my positive attitude, even during the most hardest of times.Also I loves to explore new technologies not only from computer science but from any other field<br>   
+ __About__ : Hello Everyone!! I am Prajul a pre-final year Computer Science undergrad from VIT University Chennai Campus. I am passionate for  Competitive Coding and a Web Developer. I think my greatest strength is my positive attitude, even during the most hardest of times.Also I loves to explore new technologies not only from computer science but from any other field    
  __Tech Stack__ : C/C++, Python, Java, Html, CSS, Javascript, Bootstrap, Django, Django REST Framework, ML      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/prajulgupta1920) | [Github](https://github.com/prajul007) 
