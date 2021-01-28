@@ -94,5 +94,11 @@
 - __Name__ : Shruti Agarwal              
  __About__ : A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.       
  __Tech Stack__ : C, C++, Html, CSS, Javascript, Bootstrap, Materialize, Reactjs, Firebase      
- __Social Links__ : [Linkedin](https://www.linkedin.com/in/shruti-agarwal-650a17196) | [Twitter](https://twitter.com/ShrutiA11593016) | [Github](https://github.com/Shruti3004)          
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/shruti-agarwal-650a17196) | [Twitter](https://twitter.com/ShrutiA11593016) | [Github](https://github.com/Shruti3004) 
+ 
 
+- __Name__ : Paurush Tiwari   
+ __About__ : A third year year Computer Science undergrad and currently working as a Junior ML engineer.I am interested in building amazing products and Open Source and I strongly believe in building through collaboration and contribution. I have interests in Image Processing, Computer Vision, NLP and OpenCV<br>
+ __Tech Stack__ : Python, C, C++, Django, OpenCV, DSA, Tensorflow      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/paurushtiwari/) | [Github](https://github.com/MAJOR-BEAST) | [Twitter](https://twitter.com/tiwari_paurush)
+ 
