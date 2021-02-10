@@ -107,3 +107,10 @@
  __About__ : Hello Everyone!! I am Prajul a pre-final year Computer Science undergrad from VIT University Chennai Campus. I am passionate for  Competitive Coding and a Web Developer. I think my greatest strength is my positive attitude, even during the most hardest of times.Also I loves to explore new technologies not only from computer science but from any other field    
  __Tech Stack__ : C/C++, Python, Java, Html, CSS, Javascript, Bootstrap, Django, Django REST Framework, ML      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/prajulgupta1920) | [Github](https://github.com/prajul007) 
+ 
+ 
+- __Name__ : Keshav Garg             
+ __About__ : Hello Everyone!! I am Keshav, pre-final year Computer Science undergrad from  NIT Jaipur. I am passionate about Android Development and Competitive Coding. I am very much interested in working in some open source porjects and building some solutions which can help the community. I 
+ __Tech Stack__ : Android, Python, Java, ML      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/gargk747) | [Github](https://github.com/gargk747) | [Twitter](https://twitter.com/gargk747) | [Devpost](https://devpost.com/gargk747)
+ __Portfolio__ : [Portfolio](https://gargk747.github.io/gargk747-portfolio)
