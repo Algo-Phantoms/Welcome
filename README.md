@@ -8,7 +8,7 @@
 
 <!-- <img src="https://img.shields.io/badge/Algo-Phantoms-red?style=for-the-badge"> -->
 
-Welcome to Algo-Phantoms. This is a open source organization which will contribute pathways and resources to start with competitive programming.
+Welcome to Algo-Phantoms. This is an open source organization which will contribute pathways and resources to start with competitive programming.
 
 ## Contributors:
 <a href="https://github.com/Algo-Phantoms/Welcome/graphs/contributors">
