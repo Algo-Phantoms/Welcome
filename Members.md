@@ -107,3 +107,9 @@
  __About__ : Hello Everyone!! I am Prajul a pre-final year Computer Science undergrad from VIT University Chennai Campus. I am passionate for  Competitive Coding and a Web Developer. I think my greatest strength is my positive attitude, even during the most hardest of times.Also I loves to explore new technologies not only from computer science but from any other field    
  __Tech Stack__ : C/C++, Python, Java, Html, CSS, Javascript, Bootstrap, Django, Django REST Framework, ML      
  __Social Links__ : [Linkedin](https://www.linkedin.com/in/prajulgupta1920) | [Github](https://github.com/prajul007) 
+ 
+ 
+ - __Name__ : Prathima Kadari           
+ __About__ : Hello Folks!! I am Prathima, a IT management postgrad from Symbiosis, Pune and former Embedded Engineer. I am currently working as a freelancer and dealing with various range of projects. I am also a enthusiastic pythonista, have special curiosity for IoT and Artificial Intelligence. I always believe in giving my best and progress forward with positivity. I also love mentoring and guiding budding developers to craft their path and achieve their goals. I am an avid reader and more I learn, the more I know that there is lot more to explore. 
+ __Tech Stack__ : C/C++, Embedded Development, Python, Machine Learning, OpenCV, Tensor Flow, IoT, Html, CSS      
+ __Social Links__ : [Linkedin](https://www.linkedin.com/in/prathima-kadari) | [Github](https://github.com/prathimacode-hub) | [Twitter](https://twitter.com/prathimak88) | [Hashnode](https://prathimakadari.hashnode.dev/)
